@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Taektiek
+- 👀 I’m interested in computers and stuff
+- 🌱 I’m currently learning HTML5/CSS3/Javascript, Python, C++, OpenGL and Java
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me [taekeroukema.xyz](https://www.taekeroukema.xyz)
